@@ -1,1 +1,1 @@
-This file contains my ANN modells for different tasks and different datasets.
+This file contains my ANN models for classification and regression for different datasets.
